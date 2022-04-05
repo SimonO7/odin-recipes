@@ -27,6 +27,7 @@ a {
 
 .heading {
     text-decoration: underline;
+    font-weight: bold;
 }
 
 #ingredients,
