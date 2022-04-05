@@ -16,6 +16,9 @@ h1 {
     font-size: 24px;
 }
 
+.heading {
+    text-decoration: underline;
+}
 img {
     height: auto;
     width: 480px;
