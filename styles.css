@@ -2,23 +2,38 @@
 
 * {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: gray;
+    background-color: rgb(64, 179, 140);
+    color: white;
+    font-size: 24px;
+}
+
+.main-title {
+    font-family:'Brush Script MT', Arial, sans-serif;
+    font-size: 80px;
+    color: gold
 }
 
 h1 {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: 36px;
+    font-size: 40px;
     text-align: center;
     text-decoration: underline;
 }
 
-.links {
-    font-size: 24px;
+.links,
+a {
+    color: blue;
 }
 
 .heading {
     text-decoration: underline;
 }
+
+#ingredients,
+#steps {
+    font-family: "Trebuchet MS", sans-serif;
+}
+
 img {
     height: auto;
     width: 480px;
