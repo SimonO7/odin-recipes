@@ -1,0 +1,22 @@
+/*Stylesheet for odin-recipes */
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+}
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.links {
+    font-size: 24px;
+}
+
+img {
+    height: auto;
+    width: 480px;
+}
